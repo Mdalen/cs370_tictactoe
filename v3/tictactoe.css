@@ -1,0 +1,22 @@
+body{
+	background-color:#555;
+}
+
+td{
+	padding:0px;
+}
+
+tr{
+	border:none;
+}
+
+table{
+	border:none;
+	
+	margin: 0 auto;
+	float: none;
+}
+img{
+	width: 94px;
+	height: 96px;
+}
